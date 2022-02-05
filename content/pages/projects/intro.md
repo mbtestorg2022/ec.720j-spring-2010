@@ -22,12 +22,65 @@ The process is not a linear one, however, as it is often necessary to go back to
 
 We will move through the design process over the course of the semester, and you will report your progress in a series of design review sessions. While each project will proceed at different rates, we expect that you will have achieved the following milestones for each design review session.
 
-| SES # | DESIGN REVIEW MILESTONES |
-| --- | --- |
-| 11 | Phase 1: project background, problem definition and design specifications (aka Homeworks 10 and 11) |
-| 13 | Phase 2: idea generation, experimental results, concept evaluation and final concept (aka Homework 14) |
-| 17 | Phase 3, part 1: detail design, analysis and experimental results (aka Homework 15) |
-| 20 | Phase 3, part 2: Prototypes |
-| 24 | Practice presentations for MIT Museum D-Lab showcase 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+DESIGN REVIEW MILESTONES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 1: project background, problem definition and design specifications (aka Homeworks 10 and 11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 2: idea generation, experimental results, concept evaluation and final concept (aka Homework 14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 3, part 1: detail design, analysis and experimental results (aka Homework 15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 3, part 2: Prototypes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Practice presentations for MIT Museum D-Lab showcase
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 After each review session, each team should meet to discuss the feedback they received and write a one to two-page document summarizing comments and criticisms on your project. The document should contain all comments made by reviewers and should outline what your team believes to be the most pertinent criticisms and how you plan to incorporate them as you move forward. These feedback summaries should be kept on the wiki and referred to often throughout the design process.

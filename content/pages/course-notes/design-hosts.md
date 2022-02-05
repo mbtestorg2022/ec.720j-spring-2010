@@ -6,7 +6,15 @@ title: 'D-Lab: Design hosts Paul Polak and Shawn Frayne'
 uid: 0bc2b42a-1e14-3400-b076-13c1187b35bb
 ---
 
-| « Back: [Course Notes]({{< baseurl >}}/pages/course-notes) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Course Notes]({{< baseurl >}}/pages/course-notes)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Today in D-Lab: Design, we enjoyed a down-to-earth and intimate conversation with two very special guest speakers and long-time friends of D-Lab: Paul Polak, founder of non-profit ([iDE](http://www.ideorg.org/)) and [D-Rev](http://d-rev.org/), and author of _Out of Poverty_, the book we are using in class; and Shawn Frayne, D-Lab alumni and founder of Humdinger Wind Energy, a company that manufactures a revolutionary new device for energy generation, the WindBelt.
 

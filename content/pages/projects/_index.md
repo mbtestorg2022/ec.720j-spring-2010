@@ -15,25 +15,177 @@ Voting happens with the Project Selection Form, which also helps the instructors
 
 The following table lists the six design challenges selected by the Spring 2010 class to become class projects, followed by brief summaries of the other candidates not selected by the class.
 
-| TOPICS | SUMMARIES | DESIGN CHALLENGES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**_Selected Design Challenges_**{{< /td-colspan >}} |||
-| Bamboo Pencil Maker | Process for easy manufacturing of bamboo pencils that are comparable to pencils made from wood. | Compiled descriptions ([PDF]({{< baseurl >}}/resources/mitec_720js10_comp_desc)) |
-| Chlorine Generation | Using locally run electrolysis for a do-it-yourself approach to chlorine generation. |
-| Plastic Bottle Recycling | Device that granulates and cleans used plastic bottles into reusable flakes. |
-| Portable Bicilavadora ‡ | Pedal-powered washing machine that easily transports from house to house. |
-| Spiral Pine Needle Cookstove ‡ | Cookstove for burning pine needles as an alternative fuel source in India. |
-| Vegetable Cutter | Mechanized device for dicing large volumes of potatoes for an orphanage in Peru. |
-| {{< td-colspan 3 >}}**_Other Candidates (Not Selected)_**{{< /td-colspan >}} |||
-| Braille Typewriter | Low-cost Braille typewriter that can be manufactured and distributed among blind and partially sighted individuals | These design challenge descriptions are not available |
-| Charcoal Briquette Maker | Faster briquette-making devices to improve the feasibility of producing charcoal from agricultural waste as an income generating activity in Haiti |
-| Clay Molder | Device that helps women in Brong-Ahafo, Ghana to mold clay more quickly into the appropriate shapes for selling |
-| Forestry Growth Management | SMS integrated device to measure and record tree growth for forestry management in Vietnam |
-| Low CO Stove | A fuel-efficient charcoal stove with low carbon monoxide emissions |
-| Maize Sheller Attachment | Redesigning a component of a bicycle attachment to remove maize kernels from the cob so that the entire device can be made locally in Tanzania |
-| Paper Bag Maker | Improving the production process for recycled paper bags at a women's shelter in Kolkata, India |
-| Straw Chopper | Chopping straw to use as a substrate for growing mushrooms, to supplement income in Assam, India |
-| Water Siting | Low-cost tools to accurately locate groundwater before labor-intensive manual well drilling in Ghana 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUMMARIES
+{{< thclose >}}
+{{< thopen >}}
+DESIGN CHALLENGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**_Selected Design Challenges_**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bamboo Pencil Maker
+{{< tdclose >}}
+{{< tdopen >}}
+Process for easy manufacturing of bamboo pencils that are comparable to pencils made from wood.
+{{< tdclose >}}
+{{< tdopen >}}
+Compiled descriptions ([PDF]({{< baseurl >}}/resources/mitec_720js10_comp_desc))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chlorine Generation
+{{< tdclose >}}
+{{< tdopen >}}
+Using locally run electrolysis for a do-it-yourself approach to chlorine generation.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Plastic Bottle Recycling
+{{< tdclose >}}
+{{< tdopen >}}
+Device that granulates and cleans used plastic bottles into reusable flakes.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Portable Bicilavadora ‡
+{{< tdclose >}}
+{{< tdopen >}}
+Pedal-powered washing machine that easily transports from house to house.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spiral Pine Needle Cookstove ‡
+{{< tdclose >}}
+{{< tdopen >}}
+Cookstove for burning pine needles as an alternative fuel source in India.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vegetable Cutter
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanized device for dicing large volumes of potatoes for an orphanage in Peru.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**_Other Candidates (Not Selected)_**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Braille Typewriter
+{{< tdclose >}}
+{{< tdopen >}}
+Low-cost Braille typewriter that can be manufactured and distributed among blind and partially sighted individuals
+{{< tdclose >}}
+{{< tdopen >}}
+These design challenge descriptions are not available
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Charcoal Briquette Maker
+{{< tdclose >}}
+{{< tdopen >}}
+Faster briquette-making devices to improve the feasibility of producing charcoal from agricultural waste as an income generating activity in Haiti
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Clay Molder
+{{< tdclose >}}
+{{< tdopen >}}
+Device that helps women in Brong-Ahafo, Ghana to mold clay more quickly into the appropriate shapes for selling
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Forestry Growth Management
+{{< tdclose >}}
+{{< tdopen >}}
+SMS integrated device to measure and record tree growth for forestry management in Vietnam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Low CO Stove
+{{< tdclose >}}
+{{< tdopen >}}
+A fuel-efficient charcoal stove with low carbon monoxide emissions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Maize Sheller Attachment
+{{< tdclose >}}
+{{< tdopen >}}
+Redesigning a component of a bicycle attachment to remove maize kernels from the cob so that the entire device can be made locally in Tanzania
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper Bag Maker
+{{< tdclose >}}
+{{< tdopen >}}
+Improving the production process for recycled paper bags at a women's shelter in Kolkata, India
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Straw Chopper
+{{< tdclose >}}
+{{< tdopen >}}
+Chopping straw to use as a substrate for growing mushrooms, to supplement income in Assam, India
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Water Siting
+{{< tdclose >}}
+{{< tdopen >}}
+Low-cost tools to accurately locate groundwater before labor-intensive manual well drilling in Ghana
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ‡ For the Portable Bicilavadora and the Spiral Pine Needle Cookstove, the design review presentations and final reports are presented at the end of this page.
 

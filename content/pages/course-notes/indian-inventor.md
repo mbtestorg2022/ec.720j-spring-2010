@@ -6,7 +6,15 @@ title: 'D-Lab: Design hosts Indian inventor Suprio Das'
 uid: 96960d28-2ad0-954a-f601-954d8c49afc9
 ---
 
-| « Back: [Course Notes]({{< baseurl >}}/pages/course-notes) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Course Notes]({{< baseurl >}}/pages/course-notes)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Suprio Das, independent inventor from Kolkata, India, was our guest lecturer for the D-Lab: Design class yesterday. D-Lab is hosting Suprio for over a month as Designer-In-Residence in the lab for a myriad of reasons: he is taking advantage of MIT resources to refine his design of a chlorine doser that flushes automatically with no moving parts for rural India, he is advising D-Lab teams on their design projects, he took part in the Innovators Night panel held last week, and he lectured today sharing his knowledge and expertise with our students.
 

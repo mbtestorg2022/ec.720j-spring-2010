@@ -6,7 +6,15 @@ title: 'D-Lab: Design hosts Tanzanian inventor Bernard Kiwia'
 uid: 4a9bcf48-a0f6-29a2-d1f1-0ea58209f501
 ---
 
-| « Back: [Course Notes]({{< baseurl >}}/pages/course-notes) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back: [Course Notes]({{< baseurl >}}/pages/course-notes)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 This week has been inventors' week in D-Lab: Design. After Suprio's lecture on Monday, we hosted Bernard Kiwia for Wednesday's class. Bernard is an inventor from Tanzania, who currently leads technology innovation at [Global Cycle Solutions](http://globalcyclesolutions.com/) in his home country. Bernard started as a bicycle mechanic with 3 years of experience when he participated in the first edition of the [International Development Design Summit](https://idin.org/idds) at MIT over the summer of 2007. After connecting there with other craftsmen, technicians and hackers of sorts, he came back home to start _making things_, as he likes to describe his current activities. As part of his lecture, Bernard presented the different inventions he has come up over the years, which include a cell phone charger for bicycles, a wheel truing stand, several daily objects made out of bicycle spare parts (a can opener made from a bike brake, a picture frame made from a front sprocket wheel, chairs made from bike wheel rims, etc), a bicycle-powered water pump, a solar water heater, and a pedal-powered drill press to name a few.
 
