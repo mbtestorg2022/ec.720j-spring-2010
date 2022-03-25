@@ -48,7 +48,7 @@ Introduction: design for development
 pp. 3–4
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.0MB]({{< baseurl >}}/resources/mitec_720js10_lec01))
+Slides ([PDF - 5.0MB]({{< baseurl >}}/resources/mitec_720js10_lec01))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -392,7 +392,7 @@ pp. 23–24
 {{< tdopen >}}
 
 
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mitec_720js10_lec15))
+Slides ([PDF - 2.0MB]({{< baseurl >}}/resources/mitec_720js10_lec15))
 
 
 {{< tdclose >}}
