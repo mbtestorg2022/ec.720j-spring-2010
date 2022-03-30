@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Photo of several students sitting around a table working on small paper
     cards.
+parent_uid: 3e6ad560-8ed6-fc34-194f-dcaf86a6f11e
 resourcetype: Image
 title: fig1.jpg
 uid: 6d3278d5-b706-4cf1-63b9-c740dc6d0c4c

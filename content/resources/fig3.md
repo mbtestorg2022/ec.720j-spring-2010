@@ -8,6 +8,7 @@ image_metadata:
   credit: Photos coutesy of Nathan Cooke.
   image-alt: Photo of Suprio Das standing in front of a projected photo of a water
     well.
+parent_uid: 96960d28-2ad0-954a-f601-954d8c49afc9
 resourcetype: Image
 title: fig3.jpg
 uid: bd9507b9-fecc-2d12-cf68-2cb15f8cafdc

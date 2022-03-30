@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Paul Polak standing in front of the chalkboard, with seated students
     listening.
+parent_uid: 0bc2b42a-1e14-3400-b076-13c1187b35bb
 resourcetype: Image
 title: fig1.jpg
 uid: d81b07b5-e6b0-77ed-897e-23835890aefc

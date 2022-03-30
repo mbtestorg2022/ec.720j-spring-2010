@@ -9,6 +9,7 @@ image_metadata:
   credit: Photo courtesy of Bernard Kiwia.
   image-alt: Close-up from prior photo showing water being pumped from a bucket through
     a long hose.
+parent_uid: 4a9bcf48-a0f6-29a2-d1f1-0ea58209f501
 resourcetype: Image
 title: fig1b.jpg
 uid: 3794b001-7caf-5903-261f-027d224b1333

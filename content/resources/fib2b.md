@@ -8,6 +8,7 @@ image_metadata:
   caption: 'Bernard Kiwia lecturing in the D-Lab: Design class.'
   credit: Photo courtesy of Nathan Cooke.
   image-alt: Photo of Bernard Kiwia speaking to students in class.
+parent_uid: 4a9bcf48-a0f6-29a2-d1f1-0ea58209f501
 resourcetype: Image
 title: fib2b.jpg
 uid: 174a4d1e-f06f-b94d-d728-f8779e4ffaa7

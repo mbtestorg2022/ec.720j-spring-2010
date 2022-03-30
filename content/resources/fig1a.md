@@ -9,6 +9,7 @@ image_metadata:
   credit: Photos courtesy of Bernard Kiwia.
   image-alt: Photo of a man riding a bicycle mounted on a stand, with attached pump
     and hose assembly.
+parent_uid: 4a9bcf48-a0f6-29a2-d1f1-0ea58209f501
 resourcetype: Image
 title: fig1a.jpg
 uid: 0fe75ebe-1aa6-884a-19a5-486a1e9bc18d
